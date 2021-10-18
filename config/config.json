@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd6da2ffc58bd4b011d3a5cf732375403e286539f",
+  "SCAN_LINK": "https://polygonscan.com/address/0xd6da2ffc58bd4b011d3a5cf732375403e286539f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Meka Poly",
+  "SYMBOL": "MP",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mekasonpolygon",
+  "SHOW_BACKGROUND": true
+}
